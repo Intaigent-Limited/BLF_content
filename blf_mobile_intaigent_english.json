@@ -439,10 +439,6 @@
                             "mobile_summary_final": "One way to manage your business is to use the \"ABC method.\" You can divide your products into three categories based on their value to your business."
                         },
                         {
-                            "mobile_summary_number": "10",
-                            "mobile_summary_final": "Thank you, #NAME. You will receive a reminder message in a few days. Please complete the quiz for your certificate."
-                        },
-                        {
                             "mobile_summary_number": "2",
                             "mobile_summary_final": "Category A: Items that either have a high value or a large market and are essential to the business's survival (80% of revenue)."
                         },
@@ -476,7 +472,7 @@
         },
         "business relationships": {
             "identifying customers": {
-                "The next topic is customer relationships. Customers are the reason you are in business. (6 messages).": {
+                "The next topic is customer relationships. Customers are the reason you are in business.": {
                     "Your unyielding quest for knowledge is creating a ripple effect of positive change in the agribusiness sector\u2014stay passionate and perseverant.": [
                         {
                             "mobile_summary_number": "1",
@@ -510,7 +506,7 @@
                 }
             },
             "customer care": {
-                "The next topic is customer care. The first step in customer care is identifying the type of customer (6 messages).": {
+                "The next topic is customer care. The first step in customer care is identifying the type of customer.": {
                     "With each new insight you gain, you're cultivating the expertise needed to drive forward-thinking solutions in agribusiness\u2014maintain your dedication and curiosity.": [
                         {
                             "mobile_summary_number": "1",
@@ -582,7 +578,7 @@
         },
         "cost management": {
             "classifying costs": {
-                "The next topic is classifying costs. There are three types of costs: fixed, variable, and mixed. (7 messages).": {
+                "The next topic is classifying costs. There are three types of costs: fixed, variable, and mixed.": {
                     "Every effort you put into your learning journey is fueling your potential to become a game-changer in agribusiness\u2014keep striving with purpose and determination.": [
                         {
                             "mobile_summary_number": "1",
@@ -620,7 +616,7 @@
                 }
             },
             "introduction to cost management": {
-                "The next topic is cost management. Proper cost management can turn an unprofitable business into a profitable one (7 messages).": {
+                "The next topic is cost management. Proper cost management can turn an unprofitable business into a profitable one.": {
                     "Every step you take in your educational journey is a step towards becoming an influential leader in agribusiness\u2014keep your passion and perseverance alive.": [
                         {
                             "mobile_summary_number": "1",
@@ -658,7 +654,7 @@
                 }
             },
             "controlling costs": {
-                "The next topic is controlling costs (6 messages).": {
+                "The next topic is controlling costs.": {
                     "Your continuous learning and dedication are the driving forces that will enable you to revolutionize agribusiness\u2014keep pushing the envelope and aiming high.": [
                         {
                             "mobile_summary_number": "1",
@@ -692,7 +688,7 @@
                 }
             },
             "cost consciousness and profitability": {
-                "The next topic focuses on profitability. Cost analysis will help you determine whether your business is profitable (7 messages).": {
+                "The next topic focuses on profitability. Cost analysis will help you determine whether your business is profitable.": {
                     "By passionately pursuing new knowledge, you are forging a path to extraordinary achievements in agribusiness\u2014stay inspired and unstoppable.": [
                         {
                             "mobile_summary_number": "1",
@@ -1050,7 +1046,7 @@
                 }
             },
             "creating mission statements": {
-                "Welcome to the ALP's business management training. The first topic in business management is creating mission statements (6 messages).": {
+                "Welcome to the ALP's business management training. The first topic in business management is creating mission statements.": {
                     "Your ongoing dedication is the key to unlocking untapped potential within the agribusiness sector\u2014keep pressing forward with passion and purpose.": [
                         {
                             "mobile_summary_number": "1",
@@ -1084,7 +1080,7 @@
                 }
             },
             "creating vision statements": {
-                "The next step in business planning is answering the question: \"Where are we going?\" A good vision statement will answer this (6 messages).": {
+                "The next step in business planning is answering the question: \"Where are we going?\" A good vision statement will answer this.": {
                     "Every lesson learned today is a stepping stone toward becoming a trailblazer in the agribusiness world\u2014stay motivated and unstoppable.": [
                         {
                             "mobile_summary_number": "1",
@@ -1118,7 +1114,7 @@
                 }
             },
             "swot analysis": {
-                "The next step in business planning is identifying your business's strengths, weaknesses, opportunities, and threats (SWOT) (6 messages).": {
+                "The next step in business planning is identifying your business's strengths, weaknesses, opportunities, and threats (SWOT).": {
                     "Your proactive approach to learning is empowering you to transform challenges into opportunities within the agribusiness sector\u2014keep up the momentum.": [
                         {
                             "mobile_summary_number": "1",
@@ -1222,7 +1218,7 @@
                 }
             },
             "marketing strategy part 1": {
-                "The next topic is marketing strategy. It is in two parts. Learn about marketing strategies to help your business grow! (6 messages).": {
+                "The next topic is marketing strategy. It is in two parts. Learn about marketing strategies to help your business grow!": {
                     "The knowledge you accumulate today will empower you to shape a thriving and sustainable future in agribusiness\u2014stay relentless in your pursuit of excellence.": [
                         {
                             "mobile_summary_number": "1",
@@ -1256,7 +1252,7 @@
                 }
             },
             "marketing strategy part 2": {
-                "This next topic is marketing strategy part 2. Continue to learn about marketing strategies to help your business grow! (6 messages).": {
+                "This next topic is marketing strategy part 2. Continue to learn about marketing strategies to help your business grow!": {
                     "Each stride you make in your education is fueling your potential to drive significant advancements in agribusiness\u2014keep pushing forward with determination.": [
                         {
                             "mobile_summary_number": "1",
@@ -1290,7 +1286,7 @@
                 }
             },
             "basic pricing strategies": {
-                "The next topic is pricing strategy. Price is what your customers pay for your product and services (6 messages).": {
+                "The next topic is pricing strategy. Price is what your customers pay for your product and services.": {
                     "Every new concept you grasp is a tool that enhances your ability to innovate and lead in agribusiness\u2014stay dedicated and forward-thinking.": [
                         {
                             "mobile_summary_number": "1",
