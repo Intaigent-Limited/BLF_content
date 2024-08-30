@@ -439,10 +439,6 @@
                             "mobile_summary_final": "Njia moja ya kusimamia biashara yako ni kutumia \"Mbinu ya ABC.\" Unaweza kugawa bidhaa zako katika makundi matatu kulingana na thamani yake kwa biashara yako."
                         },
                         {
-                            "mobile_summary_number": "10",
-                            "mobile_summary_final": "Asante, # MTAJE JINA . Utapokea ujumbe wa kukumbusha katika siku chache zijazo. Tafadhali kamilisha mtihani ili upate cheti chako."
-                        },
-                        {
                             "mobile_summary_number": "2",
                             "mobile_summary_final": "Kundi A: Bidhaa zenye thamani kubwa au soko kubwa na ni muhimu kwa kuendeleza biashara (asilimia 80 ya mapato)."
                         },
@@ -510,7 +506,7 @@
                 }
             },
             "huduma kwa wateja": {
-                "Mada inayofuata ni huduma kwa wateja. Hatua ya kwanza katika huduma kwa wateja ni kutambua aina ya mteja (ujumbe 6).": {
+                "Mada inayofuata ni huduma kwa wateja. Hatua ya kwanza katika huduma kwa wateja ni kutambua aina ya mteja.": {
                     "Kwa kila uelewa mpya unaoupata, unajenga ujuzi unaohitajika ili kuendesha suluhisho la kifikra mbele katika biashara ya kilimo\u2014endeleza kujitolea kwako na udadisi wako.": [
                         {
                             "mobile_summary_number": "1",
@@ -582,7 +578,7 @@
         },
         "usimamizi wa gharama": {
             "Kuzianisha gharama": {
-                "Mada inayofuata ni kuainisha gharama. Kuna aina tatu za gharama: zisizobadilika, zinazobadilika, na mchanganyiko. (Ujumbe 7).": {
+                "Mada inayofuata ni kuainisha gharama. Kuna aina tatu za gharama: zisizobadilika, zinazobadilika, na mchanganyiko.": {
                     "Kila juhudi unazoweka katika safari yako ya ujifunzaji inachochea uwezo wako wa kuwa na mabadiliko katika biashara ya kilimo\u2014endelea kujitahidi kwa makusudi na azma.": [
                         {
                             "mobile_summary_number": "1",
@@ -620,7 +616,7 @@
                 }
             },
             "Utangulizi wa udhibiti wa gharama": {
-                "Mada inayofuata ni usimamizi wa gharama. Usimamizi mzuri wa gharama unaweza kugeuza biashara isiyo na faida kuwa yenye faida (ujumbe 7).": {
+                "Mada inayofuata ni usimamizi wa gharama. Usimamizi mzuri wa gharama unaweza kugeuza biashara isiyo na faida kuwa yenye faida.": {
                     "Kila hatua unayochukua katika safari yako ya elimu ni hatua kuelekea kuwa kiongozi mwenye ushawishi katika biashara ya kilimo\u2014endelea kuwa na shauku na uvumilivu.": [
                         {
                             "mobile_summary_number": "1",
@@ -658,7 +654,7 @@
                 }
             },
             "kudhibiti gharama": {
-                "Mada inayofuata ni udhibiti gharama (ujumbe 6).": {
+                "Mada inayofuata ni udhibiti gharama.": {
                     "Uendelezaji wako wa kujifunza kila wakati na jitihada zako ni nguvu zinazoendesha ambazo zitakuwezesha kubadilisha kilimo biashara\u2014endelea kusukuma mipaka na kuweka malengo ya juu zaidi": [
                         {
                             "mobile_summary_number": "1",
@@ -692,7 +688,7 @@
                 }
             },
             "ufahamu wa gharama na faida": {
-                "Mada inayofuata inahusu faida. Uchambuzi wa gharama utakusaidia kubaini kama biashara yako ina faida (ujumbe 7).": {
+                "Mada inayofuata inahusu faida. Uchambuzi wa gharama utakusaidia kubaini kama biashara yako ina faida.": {
                     "Kwa kufuatilia kwa shauku maarifa mapya, unachonga njia ya mafanikio ya kipekee katika kilimo biashara\u2014endelea kuwa na msukumo na usiyeyuke.": [
                         {
                             "mobile_summary_number": "1",
@@ -1050,7 +1046,7 @@
                 }
             },
             "Kuandaa tamko la dhamira": {
-                "Karibu kwenye mafunzo ya usimamizi wa biashara ya ALP. Mada ya kwanza katika usimamizi wa biashara ni kuunda tamko la dhamira (ujumbe 6).": {
+                "Karibu kwenye mafunzo ya usimamizi wa biashara ya ALP. Mada ya kwanza katika usimamizi wa biashara ni kuunda tamko la dhamira.": {
                     "Kujitolea kwako endelevu ndio ufunguo wa kufunua uwezo ambao haujatumiwa katika sekta ya kilimo-biashara\u2014endelea kusonga mbele kwa shauku na dhamira.": [
                         {
                             "mobile_summary_number": "1",
@@ -1084,7 +1080,7 @@
                 }
             },
             "Kuandaa tamko la maono": {
-                "Hatua inayofuata katika kupanga biashara ni kujibu swali: \"Tunaelekea wapi?\" Tamko  nzuri la maono litajibu swali hili (ujumbe 6).": {
+                "Hatua inayofuata katika kupanga biashara ni kujibu swali: \"Tunaelekea wapi?\" Tamko  nzuri la maono litajibu swali hili.": {
                     "Kila somo linalojifunzwa leo ni ngazi ya kuelekea kuwa mtangulizi katika ulimwengu wa biashara za kilimo\u2014endelea kuwa na motisha na usiyumbishwe.": [
                         {
                             "mobile_summary_number": "1",
@@ -1222,7 +1218,7 @@
                 }
             },
             "Mkakati wa masoko sehemu ya kwanza": {
-                "Mada inayofuata ni mikakati ya masoko. Imegawanyika katika sehemu mbili. Jifunze kuhusu mikakati ya masoko ili kusaidia biashara yako kukua! (Ujumbe 6).": {
+                "Mada inayofuata ni mikakati ya masoko. Imegawanyika katika sehemu mbili. Jifunze kuhusu mikakati ya masoko ili kusaidia biashara yako kukua!": {
                     "Maarifa unayokusanya leo yatakupa nguvu za kuunda mustakabali unaostawi na endelevu katika biashara ya kilimo\u2014endelea bila kuchoka katika kufuatilia ubora.": [
                         {
                             "mobile_summary_number": "1",
@@ -1256,7 +1252,7 @@
                 }
             },
             "Mkakati wa masoko sehemu ya pili": {
-                "Mada inayofuata ni mikakati ya masoko sehemu ya pili. Endelea kujifunza kuhusu mikakati ya masoko ili kusaidia biashara yako kukua! (Ujumbe 6).": {
+                "Mada inayofuata ni mikakati ya masoko sehemu ya pili. Endelea kujifunza kuhusu mikakati ya masoko ili kusaidia biashara yako kukua!": {
                     "Kila hatua unayopiga katika elimu yako inachochea uwezo wako wa kuleta maendeleo makubwa katika biashara za kilimo\u2014endelea kusonga mbele kwa kuazimia .": [
                         {
                             "mobile_summary_number": "1",
@@ -1290,7 +1286,7 @@
                 }
             },
             "Mikakati ya msingi ya upangaji bei": {
-                "Mada inayofuata ni mikakati ya upangaji bei. Bei ni kiasi ambacho wateja wako wanacholipa kwa bidhaa na huduma zako (ujumbe 6).": {
+                "Mada inayofuata ni mikakati ya upangaji bei. Bei ni kiasi ambacho wateja wako wanacholipa kwa bidhaa na huduma zako.": {
                     "Kila wazo jipya unaloelewa ni zana inayoimarisha uwezo wako wa kubuni na kuongoza katika biashara ya kilimo\u2014endelea kuwa mwaminifu na mwenye mawazo ya kimaendeleo.": [
                         {
                             "mobile_summary_number": "1",
