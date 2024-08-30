@@ -72,7 +72,7 @@
         }
     },
     "bookkeeping essentials": {
-        "bookkeeping essentials": {
+        "bookkeeping and your business": {
             "what is bookkeeping": {
                 "Welcome to ALP's bookkeeping essentials training. This will help you improve how to track business financial transactions.": {
                     "Each insight you gain today is a stepping stone towards becoming a visionary leader in agribusiness\u2014keep pushing the boundaries.": [
@@ -148,7 +148,9 @@
                         }
                     ]
                 }
-            },
+            }
+        },
+        "bookkeeping ledgers": {
             "cash ledger part 1": {
                 "Next, you will learn about the cash ledger and how will it help your business (in two parts).": {
                     "Your perseverance is building a legacy\u2014every effort you make today sows seeds for a prosperous future in agribusiness.": [
@@ -216,9 +218,7 @@
                         }
                     ]
                 }
-            }
-        },
-        "bookkeeping ledgers": {
+            },
             "expense ledger": {
                 "What is an expense ledger:\nAn expense ledger is a book where you record purchases for day-to-day business operations. It includes costs like seeds, fertilizers, salaries, office supplies, rent, and insurance.": {
                     "With every new skill you master, you are crafting a better future for yourself and the entire agribusiness community\u2014stay focused and unstoppable.": [
@@ -323,7 +323,7 @@
             }
         }
     },
-    "Fundamentals of Retail Management": {
+    "fundamentals of retail management": {
         "inventory management": {
             "overview": {
                 "The next topic is inventory management. Inventory is the goods and materials retailers hold for the purpose of resale.": {
