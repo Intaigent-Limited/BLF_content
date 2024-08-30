@@ -1,0 +1,75 @@
+{
+  "successful ae operations, leadership and entrepreneurship (Operesheni za Wajisiriamali wa Kilimo ,Uongozi na Ujasiriamali)": {
+    "successful ae operations, leadership and entrepreneurship (Operesheni za Wajasiriamali wa Kilimo zilizofanikiwa ,Uongozi na Ujasiriamali)": [
+      "retailers and shops (Wauzaji reja reja na maduka)",
+      "entrepreneurship and leadership (ujasiriamali na uongozi)"
+    ]
+  },
+  "bookkeeping essentials (Misingi ya uhasibu)": {
+    "bookkeeping and your business (mahitaji ya uhasibu)": [
+      "what is bookkeeping (Uhasibu ni nini)",
+      "next steps for bookkeeping (hatua zinazofuata za uhasibu)"
+    ],
+    "bookkeeping ledgers (Leja za kihasibu)": [
+      "cash ledger part 1 (Daftari la fedha taslimu sehemu ya kwanza)",
+      "cash ledger part 2 (Daftari la fedha taslimu sehemu ya pili)",
+      "expense ledger (Daftari la Matumizi)",
+      "supplier ledger (Daftari la Wagavi)",
+      "sales and roleplay (mauzo na mchezo wa kuigiza)"
+    ]
+  },
+  "fundamentals of retail management (Misingi ya wauzaji wa rejareja)": {
+    "inventory management (Usimamizi wa mali)": [
+      "overview (muhtasari)",
+      "business cycles (mizunguko ya biashara)",
+      "record keeping for inventory (uhifadhi wa kumbukumbu za hesabu ya bidhaa)",
+      "methods of inventory management (njia za usimamizi wa hesabu za bidhaa)"
+    ],
+    "business relationships (mahusiano ya kibiashara)": [
+      "identifying customers (kutambua wateja)",
+      "customer care (huduma kwa wateja)"
+    ],
+    "customer care (huduma kwa wateja)": [
+      "customer satisfaction (kuridhika kwa mteja)"
+    ],
+    "cost management (usimamizi wa gharama)": [
+      "classifying costs (Kuzianisha gharama)",
+      "introduction to cost management (Utangulizi wa udhibiti wa gharama)",
+      "controlling costs (kudhibiti gharama)",
+      "cost consciousness and profitability (ufahamu wa gharama na faida)"
+    ]
+  },
+  "producer organization essentials (Misingi ya chama cha Wazalishaji)": {
+    "product aggregation (Kukusanya bidhaa)": [
+      "procuring produce (kununua mazao)",
+      "collection from farmers (kukusanya mazao toka kwa wakulima)",
+      "contracts (mikataba)"
+    ]
+  },
+  "finance and accounting (Fedha na uhasibu)": {
+    "working with credit (kufanya kazi na mkopo)": [
+      "introduction to credit (utangulizi wa mikopo)",
+      "working with lenders (kufanya kazi na wakopeshaji)",
+      "credit for customers (mikopo kwa wateja)"
+    ],
+    "cash flow and budgets (Mtiririko wa fedha na mpango wa mapato na matumizi)": [
+      "cash flow budget (bajeti ya mtiririko wa fedha)",
+      "cash reserves (akiba ya pesa taslimu)"
+    ]
+  },
+  "growing your business (kukuza biashara yako)": {
+    "business planning (Mpango wa biashara)": [
+      "elements of a business plan (vipengele vya mpango wa biashara)",
+      "creating mission statements (Kuandaa tamko la dhamira)",
+      "creating vision statements (Kuandaa tamko la maono)",
+      "swot analysis (Uchambuzi wa NUFUVI (SWOT))",
+      "smart objectives (malengo mahiri)"
+    ],
+    "marketing strategies (mikakati ya masoko)": [
+      "market risks (Hatarisho linalotokana na masoko)",
+      "marketing strategy part 1 (Mkakati wa masoko sehemu ya kwanza)",
+      "marketing strategy part 2 (Mkakati wa masoko sehemu ya pili)",
+      "basic pricing strategies (Mikakati ya msingi ya upangaji bei)"
+    ]
+  }
+}

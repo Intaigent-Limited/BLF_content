@@ -148,7 +148,9 @@
                         }
                     ]
                 }
-            },
+            }
+        },
+        "Leja za kihasibu": {
             "Daftari la fedha taslimu sehemu ya kwanza": {
                 "Kisha, utajifunza kuhusu daftari la fedha na jinsi litakavyosaidia biashara yako (katika sehemu mbili).": {
                     "Uvumilivu wako unajenga urithi\u2014kila jitihada unazofanya leo zinapanda mbegu kwa ajili ya mustakabali wenye mafanikio katika biashara yako ya kilimo.": [
@@ -216,9 +218,7 @@
                         }
                     ]
                 }
-            }
-        },
-        "Leja za kihasibu": {
+            },
             "Daftari la Matumizi": {
                 "Daftari la  gharama za matumizi ni nini ?:\nDaftari la gharama za matumizi ni daftari ambalo unatunza kumbukumbu za manunuzi ya shughuli za kila siku za biashara. inajumuisha gharama kama mbegu, mbolea, mishahara, vifaa vya ofisi, kodi ya pango, na bima.": {
                     "Kwa kila ujuzi mpya unaojifunza, unaandaa mustakabali bora kwako na kwa jamii nzima ya kilimo biashara\u2014endelea kuwa makini na usiyumbishwe.": [
@@ -323,7 +323,7 @@
             }
         }
     },
-    "Misingi ya wauzaji wa rejareja ,orodha Kuu": {
+    "Misingi ya wauzaji wa rejareja": {
         "Usimamizi wa mali": {
             "muhtasari": {
                 "Mada inayofuata ni usimamizi wa mali . Mali ni bidhaa na vifaa ambavyo wauzaji wanashikilia kwa ajili ya kuuza tena.": {
