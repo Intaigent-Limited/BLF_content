@@ -31,6 +31,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Operesheni za Wajasiriamali wa Kilimo zilizofanikiwa ,Uongozi na Ujasiriamali \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "retailers and shops",
+                            "question": "Ni sifa muhimu ya muuza dula la rejareja mwenye mafanikio?",
+                            "answers": {
+                                "A": "Bei za chini",
+                                "B": "Wateja wengi",
+                                "C": "Wateja wanaojitoa",
+                                "D": "Muuzaji mmoja anayejitoa"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Wateja waliojitolea ni sifa muhimu ya operesheni ya rejareja iliyofanikiwa. Ingawa bei za chini na wingi wa wateja vinaweza kuwa na manufaa, wateja waaminifu na waliojitolea huhakikisha biashara endelevu na mara nyingi husababisha matangazo kupitia mdomo kwa mdomo. Kitegemea muuzaji mmoja aliyewekwa wakfu kunaweza kuwa hatari, kwani hakipatii uwezo wa kubadilika."
                         }
                     ]
                 }
@@ -65,6 +77,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Operesheni za Wajasiriamali wa Kilimo zilizofanikiwa ,Uongozi na Ujasiriamali \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "entrepreneurship and leadership",
+                            "question": "Ni nini kinachohitajika kuhamasisha watu?",
+                            "answers": {
+                                "A": "Kusikiliza kwa makini",
+                                "B": "Kutoa maoni kwa wakati",
+                                "C": "Kusifu kazi nzuri",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Mbinu hizi zote zinahitajika ili kuhamasisha watu kwa ufanisi. Kusikiliza kwa makini kunaonyesha heshima na uelewa, maoni kwa wakati unaofaa yanasaidia katika kuboresha, na kupongeza kazi nzuri kunatoa msukumo chanya. Zikichanganywa, zinaunda mazingira ya kuhamasisha."
                         }
                     ]
                 }
@@ -107,6 +131,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mahitaji ya uhasibu \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "what is bookkeeping",
+                            "question": "Upi ni utaratibu?",
+                            "answers": {
+                                "A": "Mtiririko wa hatua zinazofanyika kwa mpangilio maalumu kufikia matokeo maalumu",
+                                "B": "Mtiririko wa hatua zinazohitajika kisheria",
+                                "C": "Neno la kuingizwa katika daftari la fedha",
+                                "D": "Hakuna kati ya hayo ?"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "Utaraibu ni mfululizo wa hatua zinazotekelezwa kwa mpangilio maalum ili kufikia matokeo yaliyokusudiwa. Katika biashara, taratibu zinahakikisha usawa na ufanisi katika operesheni. Zinatofautiana na mahitaji ya kisheria au maingizo ya daftari, ingawa mara nyingi taratibu huongoza jinsi haya yanavyoshughulikiwa."
                         }
                     ]
                 }
@@ -145,6 +181,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mahitaji ya uhasibu \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "next steps for bookkeeping",
+                            "question": "Ni ipi kati hizi ni taarifa ya fedha?",
+                            "answers": {
+                                "A": "Taarifa ya mapato",
+                                "B": "Mizania ya mahesabu",
+                                "C": "Taarifa ya mtiririko wa fedha",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Yote yaliyotajwa hapo juu ni taarifa za kifedha. Taarifa ya mapato inaonyesha mapato na matumizi, mizania inaonyesha mali, madeni, na mtaji, na taarifa ya mzunguko wa fedha inaonyesha mapato ya fedha na matumizi. Kwa pamoja, hizi zinatoa mtazamo kamili wa hali ya kifedha ya kampuni."
                         }
                     ]
                 }
@@ -175,6 +223,18 @@
                         {
                             "mobile_summary_number": "6",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mahitaji ya uhasibu \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash ledger part 1",
+                            "question": "Daftari la fedha taslimu ni nini?",
+                            "answers": {
+                                "A": "Kumbukumbu ya miamala yote ya mauzo",
+                                "B": "Taarifa ya akaunti yako iliyopokelewa toka benki",
+                                "C": "Kumbukumbu ya miamala yote ya fedha taslimu zinayoingia na kutoka katika biashara",
+                                "D": "Hakuna kati ya hayo"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Daftari la fedha taslimu ni kumbukumbu ya shughuli zote za pesa taslimu zinazoingia na kutoka katika biashara. Ni muhimu kwa kufuatilia mtiririko wa pesa, ikisaidia biashara kuchunguza afya yao ya kifedha. Tofauti na rekodi ya mauzo au taarifa ya benki, inazingatia haswa mienendo ya pesa taslimu, ikihusisha mapato na matumizi."
                         }
                     ]
                 }
@@ -213,6 +273,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mahitaji ya uhasibu \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash ledger part 2",
+                            "question": "Ni muamala upi kati ya hii si muamala wa fedha taslimu?",
+                            "answers": {
+                                "A": "Mshahara",
+                                "B": "Kodi ya pango",
+                                "C": "Riba iliyolipwa kwenye mikopo",
+                                "D": "Kununua bidhaa kwa mkopo"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Kununua vifaa kwa mkopo si muamala wa pesa taslimu. Miamala ya pesa taslimu inahusisha kubadilishana pesa mara moja, kama vile kulipa mishahara, kodi, au riba ya mikopo. Manunuzi kwa mkopo hayaambatani na mtiririko wa pesa mara moja na kwa kawaida yanaandikwa katika akaunti za madeni badala ya daftari la pesa taslimu."
                         }
                     ]
                 }
@@ -249,6 +321,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Leja za kihasibu \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "expense ledger",
+                            "question": "Ni ipi kati ya haya kumbukumbu yake haitunzwi kwenye daftari la matumizi?",
+                            "answers": {
+                                "A": "Ununuzi wa mafuta ya gari",
+                                "B": "Malipo ya kodi ya pango",
+                                "C": "Kununua gari/lori la mizigo",
+                                "D": "Mishahara"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Daftari la matumizi kawaida huandikisha gharama za kawaida za uendeshaji kama vile petroli/mafuta, malipo ya kodi ya pango, na mishahara. Ununuzi wa lori ni matumizi ya mtaji, sio gharama ya kawaida. Kawaida huandikishwa kama mali katika karatasi ya mizania na kupunguzwa thamani kwa muda, badala ya kuingizwa katika daftari la matumizi."
                         }
                     ]
                 }
@@ -283,6 +367,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Leja za kihasibu \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "supplier ledger",
+                            "question": "Katika biashara yako \"malipo \" ni?",
+                            "answers": {
+                                "A": "Malipo unayodaiwa na mteja",
+                                "B": "Mauzo yaliyofanywa kwa mteja kwa fedha taslimu",
+                                "C": "Bidhaa zilizonunuliwa kwa fedha taslimu",
+                                "D": "Malipo ambayo biashara yako inadaiwa na mgavi au msambazaji"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Katika biashara, deni linalolipika ni malipo ambayo biashara yako inadaiwa kwa muuzaji au mtoa huduma. Inawakilisha deni la muda mfupi ambalo linahitaji kulipwa ndani ya kipindi kilichowekwa. Hii ni tofauti na mapato yanayostahili kupokelewa (malipo yanayokudaiwa) au miamala ya pesa taslimu (mabadilishano ya haraka ya pesa)."
                         }
                     ]
                 }
@@ -317,6 +413,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Leja za kihasibu \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "sales and roleplay",
+                            "question": "Ni taarifa gani zinapaswa kuwepo kwenye risiti ya mteja?",
+                            "answers": {
+                                "A": "Tarehe",
+                                "B": "Bidhaa zilizonunuliwa",
+                                "C": "Bei",
+                                "D": "Fedha taslimu au mkopo",
+                                "E": "Yote hapo juu"
+                            },
+                            "correct_answer": "E",
+                            "explanation": "Risiti kamili ya mteja inapaswa kujumuisha taarifa zote zilizotajwa: tarehe, bidhaa zilizonunuliwa, bei, na iwapo muamala ulikuwa wa pesa taslimu au mkopo. Taarifa hizi kamili zinasaidia biashara na mteja kuhifadhi kumbukumbu sahihi za muamala."
                         }
                     ]
                 }
@@ -355,6 +464,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Usimamizi wa mali \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "overview",
+                            "question": "Ni ipi si sababu ya kupoteza bidhaa?",
+                            "answers": {
+                                "A": "Mauzo",
+                                "B": "Joto",
+                                "C": "Wizi",
+                                "D": "Wadudu"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "Mauzo siyo chanzo cha kupotea kwa bidhaa. Joto, wizi, na wadudu vinaweza kusababisha upungufu wa hesabu, lakini mauzo yanawakilisha matumizi yaliyokusudiwa ya hesabu. Chaguo zingine ni hatari ambazo zinahitaji kudhibitiwa ili kuzuia upotevu usiokusudiwa wa bidhaa."
                         }
                     ]
                 }
@@ -393,6 +514,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Usimamizi wa mali \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "business cycles",
+                            "question": "Ni kipengele kipi si sehemu ya mzunguko wa fedha?",
+                            "answers": {
+                                "A": "Malipo kwa wauzaji",
+                                "B": "Mikopo kwa wateja",
+                                "C": "Ulinganisho wa bidhaa",
+                                "D": "Malipo ya awali ya wateja"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Upatanisho wa hesabu si sehemu ya mzunguko wa kifedha, bali ni mzunguko wa uendeshaji. Mzunguko wa kifedha kwa kawaida unahusisha mzunguko wa pesa kama malipo kwa wauzaji, mkopo kwa wateja, na malipo ya awali ya wateja. Upatanisho wa hesabu ni mchakato wa ndani wa kuthibitisha viwango vya hisa."
                         }
                     ]
                 }
@@ -427,6 +560,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Usimamizi wa mali \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "record keeping for inventory",
+                            "question": "FEFO inamaanisha nini?",
+                            "answers": {
+                                "A": "Ya kwanza kuingia, ya kwanza kutoka",
+                                "B": "Ya kwanza kuisha muda wa matumizi, ya kwanza kutolewa",
+                                "C": "Iliyoisha muda, ya kwanza kutoka",
+                                "D": "Kuuza bidhaa zilizopita muda wake wa matumizi"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "FEFO inasimama kama Kwanza Kuisha, Kwanza Kutoka. Mbinu hii ya usimamizi wa hesabu inahakikisha kuwa bidhaa zilizo karibu zaidi na tarehe yao ya mwisho wa matumizi zinauzwa au kutumika kwanza. Inasaidia kupunguza upotevu na kuhakikisha kuwa wateja wanapokea bidhaa mpya."
                         }
                     ]
                 }
@@ -469,6 +614,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Usimamizi wa mali \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "methods of inventory management",
+                            "question": "Bidhaa za Kundi A ni:?",
+                            "answers": {
+                                "A": "Zina uhitajikaji mdogo sokoni",
+                                "B": "Hazichangii sana kwa mafanikio ya biashara",
+                                "C": "Ni muhimu kwa mafanikio ya biashara",
+                                "D": "Hakuna kati ya haya"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Vitu vya Kundi A ni muhimu sana kwa mafanikio ya biashara. Katika usimamizi wa hesabu, hivi kawaida ni vitu vya thamani kubwa ambavyo vina mchango mkubwa kwa gharama za jumla za hesabu na operesheni za biashara. Mara nyingi, vitu hivi vinahitaji uangalizi na udhibiti wa hali ya juu."
                         }
                     ]
                 }
@@ -505,6 +662,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mahusiano ya kibiashara \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "identifying customers",
+                            "question": "Thamani ya muda mrefu ya mteja ni:?",
+                            "answers": {
+                                "A": "Si muhimu kamwe",
+                                "B": "Ni muhimu kiasi",
+                                "C": "Ni muhimu sana",
+                                "D": "Haiwezekani kukadiria "
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Thamani ya muda mrefu ya mteja ni muhimu sana. Inazingatia si tu mauzo ya papo hapo, bali pia mauzo ya baadaye yanayowezekana, marejeleo, na mchango wa jumla kwa biashara kwa muda. Kuelewa hili kunasaidia biashara kutenga rasilimali kwa ufanisi na kukuza uhusiano imara na wateja."
                         }
                     ]
                 }
@@ -539,6 +708,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mahusiano ya kibiashara \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "customer care",
+                            "question": "Ni yepi kati ya haya ni masuala muafaka?",
+                            "answers": {
+                                "A": "Wafanyakazi wenye mafunzo mazuri",
+                                "B": "Masharti ya malipo",
+                                "C": "Ubora wa bidhaa",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Masharti ya malipo ni kigezo cha urahisi katika huduma kwa wateja. Wafanyakazi waliofunzwa vizuri na ubora wa bidhaa, ingawa ni muhimu, sio vigezo vya urahisi hasa. Vigezo vya urahisi hurahisisha wateja kufanya biashara na wewe, na masharti ya malipo yanayobadilika yanaweza kuwa urahisi mkubwa kwa wateja wengi."
                         }
                     ]
                 }
@@ -575,6 +756,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya huduma kwa wateja \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "customer satisfaction",
+                            "question": "Ni yapi ni muhimu kushughulikia kutoridhika kwa mteja?",
+                            "answers": {
+                                "A": "Kusikiliza kwa makini",
+                                "B": "Kushughulikia chanzo cha kutoridhika",
+                                "C": "Kutoa visingizio kwa matatizo",
+                                "D": "Yote A & B",
+                                "E": "Yote A & C"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Kusikiliza kwa huruma na kushughulikia sababu za kutokuridhika ni muhimu katika kushughulikia kutokuridhika kwa wateja. Kusikiliza kunaonyesha kwamba unathamini mtazamo wa mteja, wakati kushughulikia sababu kunasaidia kuzuia matatizo ya baadaye. Kutoa visingizio kwa kawaida si njia yenye tija."
                         }
                     ]
                 }
@@ -615,6 +809,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya usimamizi wa gharama \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "classifying costs",
+                            "question": "Ni ipi si gharama isiyobadilika?",
+                            "answers": {
+                                "A": "Kodi ya pango",
+                                "B": "Malipo ya bima",
+                                "C": "matumizi ya huduma mfano umeme",
+                                "D": "Malipo ya mkopo"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Gharama za huduma kawaida si gharama za kudumu. Gharama za kudumu hubaki kuwa thabiti bila kujali kiwango cha uzalishaji, kama vile kodi au malipo ya bima. Gharama za huduma mara nyingi hubadilika kutegemea matumizi, hivyo kuwa gharama zinazobadilika. Malipo ya mkopo kwa kawaida ni ya kudumu, kwani ni kiasi kilichowekwa kinachohitajika mara kwa mara."
                         }
                     ]
                 }
@@ -653,6 +859,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya usimamizi wa gharama \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "introduction to cost management",
+                            "question": "Ni yepi kati ya haya ni muhimu kwa kuongeza kuridhika kwa mteja?",
+                            "answers": {
+                                "A": "Ubora wa bidhaa",
+                                "B": "Bei ndiyo kitu cha pekee cha muhimu",
+                                "C": "Udhibiti wa gharama",
+                                "D": "Hakuna kati ya haya"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "Ubora wa bidhaa ni muhimu kwa kuongeza kuridhika kwa mteja. Ingawa bei na usimamizi wa gharama ni muhimu, sio vigezo pekee. Bidhaa zenye ubora wa juu hukidhi au kupita matarajio ya mteja, hivyo kusababisha kuridhika na uaminifu."
                         }
                     ]
                 }
@@ -687,6 +905,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya usimamizi wa gharama \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "controlling costs",
+                            "question": "Kudhibiti gharama ni:?",
+                            "answers": {
+                                "A": "Haiwezekani",
+                                "B": "Muhimu",
+                                "C": "Hufanyika mara moja kwa mwaka",
+                                "D": "Hakuna kati ya haya"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Kudhibiti gharama ni muhimu kwa mafanikio ya biashara. Si jambo lisilowezekana, wala halipaswi kufanywa mara moja kwa mwaka tu. Udhibiti wa gharama wenye ufanisi ni mchakato unaoendelea unaosaidia kudumisha faida na ushindani."
                         }
                     ]
                 }
@@ -725,6 +955,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya usimamizi wa gharama \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cost consciousness and profitability",
+                            "question": "Utambuzi wa gharama na ongezeko la faida linamaanisha?",
+                            "answers": {
+                                "A": "Kuongeza na kupanuka biashara kwa njia inayoendana na yenye faida",
+                                "B": "Kuongeza ufanisi wa uendeshaji",
+                                "C": "Kuongeza faida",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Kukua kufikia faida kunajumuisha mambo haya yote. Inahusisha kuikuza biashara kwa njia inayoongeza faida, kupata ufanisi wa kiutendaji, na kupanua kwa njia inayolingana na faida. Ni mtazamo kamili kwa ukuaji wa biashara."
                         }
                     ]
                 }
@@ -763,6 +1005,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Kukusanya bidhaa \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "procuring produce",
+                            "question": "Ni ipi si lengo la manunuzi?",
+                            "answers": {
+                                "A": "Kukusanya bidhaa sahihi",
+                                "B": "Kukusanya bidhaa nyingi iwezekanavyo bila kujali ubora",
+                                "C": "Kukusanya bidhaa zenye ubora unaofaa",
+                                "D": "Kukusanya kiasi sahihi cha bidhaa"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Kukusanya bidhaa nyingi iwezekanavyo bila kujali ubora si lengo la ununuzi. Ununuzi wenye ufanisi unalenga kupata bidhaa sahihi, kwa wingi unaofaa, na ubora unaotakiwa. Kupuuza ubora kwa ajili ya wingi kunaweza kusababisha upotevu na kutokuridhika kwa wateja."
                         }
                     ]
                 }
@@ -797,6 +1051,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Kukusanya bidhaa \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "collection from farmers",
+                            "question": "Ni yapi kati ya yafuatayo ni muhimu kwa ukusanyaji mazao toka kwa wakulima?",
+                            "answers": {
+                                "A": "Kuwajulisha wakulima kuhusu mchakato na muda wa ukusanyaji",
+                                "B": "Kuwafunza wakulima jinsi ya kudumisha ubora wa bidhaa baada ya mavuno",
+                                "C": "Kuandaa mpango wa uzalishaji",
+                                "D": "Kutembelea mashamba kuzungumza na wakulima na kuthathmini hali ya mazao",
+                                "E": "Yote hapo juu"
+                            },
+                            "correct_answer": "E",
+                            "explanation": "Shughuli zote hizi ni muhimu kwa ukusanyaji mzuri kutoka kwa wakulima. Zinajumuisha mawasiliano, mafunzo, kupanga, na udhibiti wa ubora. Kwa pamoja, taratibu hizi zinahakikisha mchakato wa ukusanyaji unafanyika kwa urahisi na kudumisha uhusiano mzuri na wakulima."
                         }
                     ]
                 }
@@ -831,6 +1098,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Kukusanya bidhaa \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "contracts",
+                            "question": "Ni kipi kati ya havi si kipengele cha kawaida katika mikataba?",
+                            "answers": {
+                                "A": "Mchakato wa kutatua migogoro",
+                                "B": "Uamuzi wa bei",
+                                "C": "Majukumu ya kila upande",
+                                "D": "Mahitaji ya ubora",
+                                "E": "Faida yako"
+                            },
+                            "correct_answer": "E",
+                            "explanation": "Faida yako kawaida haijumuishwi kama sharti katika mkataba. Mikataba kawaida huainisha masharti yaliyokubaliwa kati ya pande, kama vile bei, majukumu, mahitaji ya ubora, na taratibu za kutatua migogoro. Ingawa masharti haya yanaathiri faida yako, faida yenyewe kawaida haiwekwi wazi."
                         }
                     ]
                 }
@@ -869,6 +1149,17 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya kufanya kazi na mkopo \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "introduction to credit",
+                            "question": "Ni hatari gani zinazohusiana na kukopa?",
+                            "answers": {
+                                "A": "Kutokulipa kiasi cha mkopo na gharama nyingine kama vile riba",
+                                "B": "Kuharibu sifa zako/kuchafua sifa yako ikiwa malipo ya mkopo yatachelewa au hayatatimizwa",
+                                "C": "Yote hapo juu"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Hatari zote mbili zinahusiana na kukopa. Kutokulipa mkopo kunaweakutokulipa mkopo kunaweza kusababisha msongo wa kifedha na matatizo ya kisheria yanayoweza kutokea. Kulipa deni kwa kuchelewa au kutokulipa kabisa kunaweza kuharibu sifa yako ya mkopo, na kufanya iwe vigumu kupata mikopo ya baadaye au masharti mazuri. Ni muhimu sana kuzingatia hatari hizi kabla ya kuchukua deni."
                         }
                     ]
                 }
@@ -903,6 +1194,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya kufanya kazi na mkopo \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "working with lenders",
+                            "question": "Unapoomba mkopo, mkopeshaji atafanya yafuatayo .?",
+                            "answers": {
+                                "A": "Uchunguzi wa kina kuhakikisha kuwa mkopaji anafaa na anaweza kulipa mkopo",
+                                "B": "Kutoa barua ya kukataa kutoa mkopo kwa mwombaji au kuelezea masharti ya mkopo",
+                                "C": "Toa makubaliano ya mkopo yanayoelezea masharti na masharti ya mkopo",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Unapofanya maombi ya mkopo, wakopeshaji kawaida hufuata hatua hizi zote. Uchunguzi wa kina husaidia kutathmini uwezo wa mkopaji wa kurejesha mkopo. Barua ya mkopo hufikisha uamuzi na masharti. Mkataba wa mkopo huthibitisha makubaliano. Utaratibu huu husaidia kulinda pande zote mbili, mkopeshaji na mkopaji."
                         }
                     ]
                 }
@@ -937,6 +1240,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya kufanya kazi na mkopo \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "credit for customers",
+                            "question": "Ni mambo gani muhimu yanapaswa kufanywa katika kusimamia mikopo ya wateja?",
+                            "answers": {
+                                "A": "Hakikisha wateja wamesaini nyaraka za mkopo na masharti ya malipo",
+                                "B": "Hakikisha wakopaji wanakidhi vigezo vya kupokea bidhaa kwa mkopo",
+                                "C": "Fuatilia mikopo iliyosalia katika daftari lako la mikopo",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Mbinu hizi zote ni muhimu katika usimamizi wa mikopo kwa wateja. Uwekaji kumbukumbu sahihi, kuhakiki wakopaji, na kufuatilia mikopo iliyopo husaidia kupunguza hatari na kuhakikisha mtiririko mzuri wa pesa taslimu. Mbinu hizi zinalinda biashara na mteja katika miamala ya mikopo."
                         }
                     ]
                 }
@@ -973,6 +1288,17 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Mtiririko wa fedha na mpango wa mapato na matumizi \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash flow budget",
+                            "question": "Bajeti za fedha taslimu ni muhimu kwa sababu:?",
+                            "answers": {
+                                "A": "Zinatoa taarifa muhimu kwa maamuzi na usimamizi",
+                                "B": "Zinasaidia wamiliki wa biashara kutambua tofauti kati utendaji halisi na matarajio",
+                                "C": "Yote hapo juu"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Bajeti za pesa ni muhimu kwa sababu zote zilizotajwa. Zinatoa taarifa muhimu kwa maamuzi ya usimamizi, zikisaidia biashara kupanga matumizi ya baadaye na uwekezaji. Pia zinasaidia wamiliki kutambua tofauti kati ya utendaji halisi na ule uliotarajiwa, hivyo kuruhusu marekebisho ya wakati unaofaa katika mkakati wa biashara."
                         }
                     ]
                 }
@@ -1007,6 +1333,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Mtiririko wa fedha na mpango wa mapato na matumizi \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash reserves",
+                            "question": "Akiba ya fedha taslimu haipaswi kutumika kwa:?",
+                            "answers": {
+                                "A": "Gharama zinazohusiana na dharura",
+                                "B": "Kugharimia shughuli wakati wa biashara mbaya",
+                                "C": "Matumizi ya kwenda mapumziko",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Akiba ya pesa haipaswi kutumika kwa gharama za likizo. Kwa kawaida, akiba hutengwa kwa ajili ya dharura, kugharamia matumizi wakati biashara iko polepole, au kwa fursa za kibiashara zisizotarajiwa. Kuzitumia kwa matumizi binafsi kama likizo kunaweza kuathiri utulivu wa kifedha wa biashara."
                         }
                     ]
                 }
@@ -1045,6 +1383,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Mpango wa biashara \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "elements of a business plan",
+                            "question": "Mipango ya biashara inaandaliwa kukidhi mahitaji tofauti. Ni ipi kati ya hii si muafaka kwa mpango wa biashara?",
+                            "answers": {
+                                "A": "Kuomba mkopo",
+                                "B": "Kusalimia mteja",
+                                "C": "Upanuzi wa duka lako",
+                                "D": "Kueleza mikakati mipya ya masoko"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Kusalimia mteja si jambo linalofaa kwa mpango wa biashara. Mipango ya biashara ni nyaraka za kimkakati zinazoeleza malengo na mikakati. Hutumika kwa madhumuni kama maombi ya mikopo, upanuzi wa biashara, au mikakati ya masoko. Majukumu ya kila siku ya uendeshaji kama salamu kwa wateja, ingawa ni muhimu, kwa kawaida hayaingizwi kwenye mpango wa biashara."
                         }
                     ]
                 }
@@ -1079,6 +1429,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Mpango wa biashara \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "creating mission statements",
+                            "question": "Ni yepi kati ya maswali yafuatayo hayajibiwi kwenye mpango wa biashara?",
+                            "answers": {
+                                "A": "Uko wapi sasa ?",
+                                "B": "Faida gani watatpata wagavi wako ?",
+                                "C": "Unakwenda wapi ?",
+                                "D": "Unawezaje kufika huko ?"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Mpango wa biashara kwa kawaida hujibu maswali kuhusu hali yako ya sasa, malengo ya baadaye, na mikakati ya kuyafikia. Faida ya wauzaji kwa kawaida haijajumuishwa katika mpango wa biashara, kwani unaangazia operesheni za biashara yako mwenyewe na matarajio ya kifedha."
                         }
                     ]
                 }
@@ -1113,6 +1475,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Mpango wa biashara \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "creating vision statements",
+                            "question": "Tamko nzuri la maono ya biashara yako lazima .?",
+                            "answers": {
+                                "A": "Inayolenga siku za baadae",
+                                "B": "Isiyoweza kufikiwa",
+                                "C": "Inayojumuisha sentensi kadhaa ndefu",
+                                "D": "Kwa madhumuni ya uvumishaji pekee"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "Taarifa nzuri ya maono inalenga siku zijazo. Inapaswa kuelezea mahali ambapo kampuni inalenga kufikia katika muda mrefu. Ingawa ni changamoto, inapaswa kuwa inawezekana kutekelezeka. Kwa kawaida ni fupi, na si ndefu yenye sentensi nyingi. Ingawa inaweza kutumika kwa matangazo, kusudi lake kuu ni kuongoza mikakati ya biashara na kuhamasisha wafanyakazi."
                         }
                     ]
                 }
@@ -1147,6 +1521,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Mpango wa biashara \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "swot analysis",
+                            "question": "N katika ''NUFUVI ''inasimamia badala ya neno gani?",
+                            "answers": {
+                                "A": "Mikakati",
+                                "B": "Maslahi binafsi",
+                                "C": "Nguvu",
+                                "D": "Uhifadhi"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Katika uchambuzi wa SWOT, 'S' inasimamia Nguvu. Hii inarejelea sifa za ndani na rasilimali ambazo zinampa faida biashara. Vipengele vingine ni Udhaifu, Fursa, na Vitisho, vikiunda mfumo kamili kwa ajili ya mipango ya kimkakati."
                         }
                     ]
                 }
@@ -1181,6 +1567,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya Mpango wa biashara \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "smart objectives",
+                            "question": "Ni ipi si sehemu ya lengo ambalo ni SMART:?",
+                            "answers": {
+                                "A": "Mahususi",
+                                "B": "Inayoweza kuuzika",
+                                "C": "Inayoweza kufikiwa",
+                                "D": "Yenye kuleta maana",
+                                "E": "Ina muda maalum"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Katika kuweka malengo ya SMART, 'Inayoweza Kuuza' si sehemu ya kifupi hicho. SMART inasimamia Maalum, Inayopimika, Inayoweza Kufikiwa, Inayofaa, na yenye Muda maalum. Vigezo hivi vinasaidia kuhakikisha kwamba malengo ni wazi na yanaweza kufikiwa ndani ya muda maalum."
                         }
                     ]
                 }
@@ -1217,6 +1616,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mikakati ya masoko \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "market risks",
+                            "question": "Ni ipi kati ya hizi ni mbinu ya udhibiti wa vihatarishi katika biashara?",
+                            "answers": {
+                                "A": "Fanya ulinganisho wa fedha zilizoko kwenye vitabu na fedha mkononi",
+                                "B": "Fungia vifaa kwa usalama",
+                                "C": "Fanya ulinganisho wa bidhaa iliyoko kwenye vitabu na uhalisia",
+                                "D": "Mfundishe mtu kufanya shughuli muhimu za biashara",
+                                "E": "Yote hapo juu"
+                            },
+                            "correct_answer": "E",
+                            "explanation": "Hizi zote ni mbinu za usimamizi wa hatari. Kuweka sawa fedha taslimu, kuhakikisha usalama wa vifaa, kusimamia hesabu, na kuwapa mafunzo mbalimbali wafanyakazi husaidia kupunguza hatari mbalimbali za biashara. Kutekeleza mchanganyiko wa mbinu hizi huunda mkakati imara wa usimamizi wa hatari."
                         }
                     ]
                 }
@@ -1251,6 +1663,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mikakati ya masoko \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "marketing strategy part 1",
+                            "question": "Ni njia zipi za kuelewa mahitaji/matakwa ya wateja?",
+                            "answers": {
+                                "A": "Fanya utafiti kwa wateja waliopo na watarajiwa",
+                                "B": "Zungumza na wateja na uulize kuhusu shughuli zao za kilimo, changamoto, na mahitaji",
+                                "C": "Changanua wanachouza washindani na jinsi wanavyowashirikisha wateja",
+                                "D": "Yote hapo juu"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Njia zote hizi ni muhimu kwa kuelewa mahitaji na matakwa ya wateja. Utafiti hutoa takwimu za kiasi, mazungumzo hutoa uelewa wa kina, na uchambuzi wa washindani hutoa muktadha wa soko. Kutumia mchanganyiko wa mbinu hizi hutoa uelewa kamili wa mahitaji ya wateja."
                         }
                     ]
                 }
@@ -1285,6 +1709,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mikakati ya masoko \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "marketing strategy part 2",
+                            "question": "Nini maana ya P- 4 Katika masoko?",
+                            "answers": {
+                                "A": "Bidhaa, mahali, Uvumishaji na bei",
+                                "B": "Bidhaa, sera, bei na mazoea",
+                                "C": "Bidhaa, bei, mazoea, na uwezekano",
+                                "D": "Hakuna kati ya haya"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "Vipengele 4 vya masoko ni Bidhaa, Mahali, Uendelezaji, na Bei. Vipengele hivi vinajumuisha msingi wa mchanganyiko wa masoko, dhana muhimu katika mikakati ya masoko. Kila 'P' inawakilisha eneo muhimu ambalo biashara zinahitaji kushughulikia katika juhudi zao za masoko."
                         }
                     ]
                 }
@@ -1319,6 +1755,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Hongera, umekamilisha #PERCENT% ya aina ya mikakati ya masoko \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "basic pricing strategies",
+                            "question": "Kufunga pamoja ni:?",
+                            "answers": {
+                                "A": "Kuuzwa kwa wingi na kwa vipimo tofauti tofauti vya bidhaa hiyo hiyo kwa bei iliyopunguzwa",
+                                "B": "Kuuzia bidhaa kwa mkopo",
+                                "C": "Kuunganisha bidhaa au huduma kadhaa pamoja kwa bei ya punguzo kuliko bei ya kila bidhaa",
+                                "D": "Hakuna kati ya haya"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Kufunga pamoja ni mchanganyiko wa bidhaa au huduma kadhaa kwa pamoja kwa bei ya chini kuliko jumla ya kila bidhaa pekee. Mkakati huu unaweza kuongeza mauzo, kusafisha hesabu, au kuwatambulisha wateja kwa bidhaa mpya. Ni tofauti na punguzo la wingi au mauzo ya mikopo."
                         }
                     ]
                 }
