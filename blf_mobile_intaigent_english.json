@@ -31,6 +31,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the successful ae operations, leadership and entrepreneurship category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "retailers and shops",
+                            "question": "What is an important trait of a successful retail operation?",
+                            "answers": {
+                                "A": "Low prices",
+                                "B": "Many customers",
+                                "C": "Committed customers",
+                                "D": "One dedicated supplier"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Committed customers are an important trait of a successful retail operation. While low prices and many customers can be beneficial, loyal, committed customers provide steady business and often lead to word-of-mouth marketing. Relying on one dedicated supplier can be risky, as it doesn't provide flexibility."
                         }
                     ]
                 }
@@ -65,6 +77,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the successful ae operations, leadership and entrepreneurship category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "entrepreneurship and leadership",
+                            "question": "What is required to motivate people?",
+                            "answers": {
+                                "A": "Attentive listening",
+                                "B": "Providing timely feedback",
+                                "C": "Compliment good work",
+                                "D": "All of the above"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "All of these practices are required to motivate people effectively. Attentive listening shows respect and understanding, timely feedback helps in improvement, and complimenting good work provides positive reinforcement. Combined, these create a motivating environment."
                         }
                     ]
                 }
@@ -107,6 +131,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the bookkeeping essentials category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "what is bookkeeping",
+                            "question": "What is a procedure?",
+                            "answers": {
+                                "A": "A series of steps that happen in a defined order to achieve a apecific outcome.",
+                                "B": "A series of steps required by law.",
+                                "C": "A term for an entry into a ledger.",
+                                "D": "None of the above."
+                            },
+                            "correct_answer": "A",
+                            "explanation": "A procedure is a series of steps that happen in a defined order to achieve a specific outcome. In business, procedures ensure consistency and efficiency in operations. They're different from legal requirements or ledger entries, though procedures often guide how these are handled."
                         }
                     ]
                 }
@@ -145,6 +181,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the bookkeeping essentials category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "next steps for bookkeeping",
+                            "question": "Which of the following is a financial statement?",
+                            "answers": {
+                                "A": "Income statement",
+                                "B": "Balance Sheet",
+                                "C": "Statement of Cash Flows",
+                                "D": "All of the above."
+                            },
+                            "correct_answer": "D",
+                            "explanation": "All of the above are financial statements. The income statement shows revenues and expenses, the balance sheet displays assets, liabilities, and equity, and the statement of cash flows shows cash inflows and outflows. Together, these provide a comprehensive view of a company's financial position."
                         }
                     ]
                 }
@@ -175,6 +223,18 @@
                         {
                             "mobile_summary_number": "6",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the bookkeeping essentials category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash ledger part 1",
+                            "question": "What is a cash ledger?",
+                            "answers": {
+                                "A": "A record of all sales transactions",
+                                "B": "The account statement received from your bank.",
+                                "C": "A record of all cash transactions in and out of the business.",
+                                "D": "None of the above"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "A cash ledger is a record of all cash transactions in and out of the business. It's crucial for tracking cash flow, helping businesses monitor their financial health. Unlike a sales record or bank statement, it specifically focuses on cash movements, including both income and expenses."
                         }
                     ]
                 }
@@ -213,6 +273,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the bookkeeping essentials category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash ledger part 2",
+                            "question": "Which of the following is NOT a cash transaction?",
+                            "answers": {
+                                "A": "Salary",
+                                "B": "Rent",
+                                "C": "Interest paid on loans",
+                                "D": "Buying supplies on credit"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Buying supplies on credit is not a cash transaction. Cash transactions involve immediate exchange of money, like paying salaries, rent, or interest on loans. Credit purchases don't involve immediate cash flow and are typically recorded in accounts payable rather than the cash ledger."
                         }
                     ]
                 }
@@ -249,6 +321,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the bookkeeping ledgers category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "expense ledger",
+                            "question": "Which of the following is NOT recorded in an expense ledger?",
+                            "answers": {
+                                "A": "Petrol/Fuel",
+                                "B": "Lease payments",
+                                "C": "Purchase of a truck",
+                                "D": "Salaries"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "An expense ledger typically records regular operational costs like petrol/fuel, lease payments, and salaries. The purchase of a truck is a capital expenditure, not a regular expense. It's usually recorded as an asset on the balance sheet and depreciated over time, rather than being logged in the expense ledger."
                         }
                     ]
                 }
@@ -283,6 +367,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the bookkeeping ledgers category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "supplier ledger",
+                            "question": "In your business, a payable is:",
+                            "answers": {
+                                "A": "A payment owed to you by a customer.",
+                                "B": "A customer sale paid in cash.",
+                                "C": "Inventory bought with cash.",
+                                "D": "A payment your business owes to a supplier or vendor."
+                            },
+                            "correct_answer": "D",
+                            "explanation": "In business, a payable is a payment your business owes to a supplier or vendor. It represents a short-term debt that needs to be paid within a set period. This is different from receivables (payments owed to you) or cash transactions (immediate exchanges of money)."
                         }
                     ]
                 }
@@ -317,6 +413,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the bookkeeping ledgers category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "sales and roleplay",
+                            "question": "What information should be included in a customer receipt?",
+                            "answers": {
+                                "A": "Date",
+                                "B": "Products purchased",
+                                "C": "Price",
+                                "D": "Cash or credit",
+                                "E": "All of the above"
+                            },
+                            "correct_answer": "E",
+                            "explanation": "A complete customer receipt should include all of the mentioned information: date, products purchased, price, and whether the transaction was cash or credit. This comprehensive information helps both the business and the customer keep accurate records of the transaction."
                         }
                     ]
                 }
@@ -355,6 +464,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the inventory management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "overview",
+                            "question": "Which is not a caust of product loss?",
+                            "answers": {
+                                "A": "Sales",
+                                "B": "Heat",
+                                "C": "Theft",
+                                "D": "Pests"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "Sales are not a cause of product loss. While heat, theft, and pests can lead to inventory shrinkage, sales represent the intended use of inventory. The other options are risks that need to be managed to prevent unintended loss of product."
                         }
                     ]
                 }
@@ -393,6 +514,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the inventory management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "business cycles",
+                            "question": "Which factor is not part of the financial cycle?",
+                            "answers": {
+                                "A": "Cash payment to suppliers",
+                                "B": "Customer credit",
+                                "C": "Inventory reconciliation",
+                                "D": "Customer downpayments"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Inventory reconciliation is not part of the financial cycle, but rather the operational cycle. The financial cycle typically involves cash movements like payments to suppliers, customer credit, and customer down payments. Inventory reconciliation is an internal process to verify stock levels."
                         }
                     ]
                 }
@@ -427,6 +560,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the inventory management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "record keeping for inventory",
+                            "question": "What does FEFO mean?",
+                            "answers": {
+                                "A": "First in, first out",
+                                "B": "First expired, first over",
+                                "C": "First expired, first out",
+                                "D": "Selling products that are past their expiration date."
+                            },
+                            "correct_answer": "C",
+                            "explanation": "FEFO stands for First Expired, First Out. This inventory management method ensures that products closest to their expiration date are sold or used first. It helps minimize waste and ensures that customers receive fresh products."
                         }
                     ]
                 }
@@ -469,6 +614,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the inventory management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "methods of inventory management",
+                            "question": "Category A items are:",
+                            "answers": {
+                                "A": "Have relatively small market demand",
+                                "B": "Contribute little to business success",
+                                "C": "Are critical to business success",
+                                "D": "None of the above"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Category A items are critical to business success. In inventory management, these are typically high-value items that contribute significantly to overall inventory costs and business operations. They usually require the most attention and control."
                         }
                     ]
                 }
@@ -505,6 +662,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the business relationships category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "identifying customers",
+                            "question": "The long-term value of a customer is:",
+                            "answers": {
+                                "A": "Never important",
+                                "B": "Somewhat important",
+                                "C": "Very important",
+                                "D": "Impossible to estimate"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "The long-term value of a customer is very important. It considers not just immediate sales, but potential future sales, referrals, and overall contribution to the business over time. Understanding this helps businesses allocate resources effectively and develop strong customer relationships."
                         }
                     ]
                 }
@@ -539,6 +708,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the business relationships category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "customer care",
+                            "question": "Which of the following is a Convenience Factor?",
+                            "answers": {
+                                "A": "Well-trained staff",
+                                "B": "Payment Terms",
+                                "C": "Product Quality",
+                                "D": "All of the above"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Payment terms are a Convenience Factor in customer care. Well-trained staff and product quality, while important, are not specifically convenience factors. Convenience factors make it easier for customers to do business with you, and flexible payment terms can be a significant convenience for many customers."
                         }
                     ]
                 }
@@ -575,6 +756,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the customer care category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "customer satisfaction",
+                            "question": "Which are important to addressing customer dissatisfaction?",
+                            "answers": {
+                                "A": "Empathetic listening",
+                                "B": "Addressing causes of dissatisfaction",
+                                "C": "Offer excuses for problems",
+                                "D": "Both A & B",
+                                "E": "Both A & C"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Both empathetic listening and addressing causes of dissatisfaction are important in handling customer dissatisfaction. Listening shows you value the customer's perspective, while addressing causes helps prevent future issues. Offering excuses is generally not a productive approach."
                         }
                     ]
                 }
@@ -615,6 +809,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the cost management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "classifying costs",
+                            "question": "Which is not a fixed cost?",
+                            "answers": {
+                                "A": "Rent",
+                                "B": "Insurance payment",
+                                "C": "Utilities",
+                                "D": "Loan payments"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Utilities are typically not a fixed cost. Fixed costs remain constant regardless of production levels, like rent or insurance payments. Utility costs often vary with usage, making them a variable cost. Loan payments are usually fixed, as they're set amounts due regularly."
                         }
                     ]
                 }
@@ -653,6 +859,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the cost management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "introduction to cost management",
+                            "question": "Which of the following is important to maximizing customer satisfaction?",
+                            "answers": {
+                                "A": "Product quality",
+                                "B": "Price is the only thing that matters",
+                                "C": "Cost management",
+                                "D": "None of the above"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "Product quality is crucial for maximizing customer satisfaction. While price and cost management are important, they're not the only factors. High-quality products meet or exceed customer expectations, leading to satisfaction and loyalty."
                         }
                     ]
                 }
@@ -687,6 +905,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the cost management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "controlling costs",
+                            "question": "Controlling costs is:",
+                            "answers": {
+                                "A": "Impossible",
+                                "B": "Important",
+                                "C": "Done once a year",
+                                "D": "None of the above"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Controlling costs is important for business success. It's not impossible, nor should it be done just once a year. Effective cost control is an ongoing process that helps maintain profitability and competitiveness."
                         }
                     ]
                 }
@@ -725,6 +955,18 @@
                         {
                             "mobile_summary_number": "8",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the cost management category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cost consciousness and profitability",
+                            "question": "Scaling to profitability means:",
+                            "answers": {
+                                "A": "Growing and expanding the business is a proportional and profitable manner.",
+                                "B": "Gaining operating efficiencies",
+                                "C": "Increased profitability",
+                                "D": "All of the above"
+                            },
+                            "correct_answer": "D",
+                            "explanation": "Scaling to profitability encompasses all of these aspects. It involves growing the business in a way that increases profitability, gains operational efficiencies, and expands in a proportional and profitable manner. It's a comprehensive approach to business growth."
                         }
                     ]
                 }
@@ -763,6 +1005,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the product aggregation category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "procuring produce",
+                            "question": "What is not a goal of procurement?",
+                            "answers": {
+                                "A": "Collecting the right product",
+                                "B": "Collecting as much product as possible regardless of quality",
+                                "C": "Collecting product of the right quality",
+                                "D": "Collecting the right quantity of product"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Collecting as much product as possible regardless of quality is not a goal of procurement. Effective procurement aims to obtain the right product, in the right quantity, at the right quality. Ignoring quality for quantity can lead to waste and customer dissatisfaction."
                         }
                     ]
                 }
@@ -797,6 +1051,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the product aggregation category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "collection from farmers",
+                            "question": "Which of the following are important for collection from farmers?",
+                            "answers": {
+                                "A": "Inform farmers of process and timing for collection.",
+                                "B": "Train farmers on how to maintain product quality after harvest.",
+                                "C": "Create a production plan.",
+                                "D": "Visit farms to talk with farmers and assess condition of the crop.",
+                                "E": "All of the above."
+                            },
+                            "correct_answer": "E",
+                            "explanation": "All of these activities are important for effective collection from farmers. They encompass communication, training, planning, and quality control. Together, these practices ensure a smooth collection process and maintain good relationships with farmers."
                         }
                     ]
                 }
@@ -831,6 +1098,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the product aggregation category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "contracts",
+                            "question": "Which of the following is not a typical term in a contract?",
+                            "answers": {
+                                "A": "Process for dispute resolution",
+                                "B": "Price determination",
+                                "C": "Responsibilities of each party",
+                                "D": "Quality requirements",
+                                "E": "Your profit"
+                            },
+                            "correct_answer": "E",
+                            "explanation": "Your profit is typically not included as a term in a contract. Contracts usually outline agreed-upon terms between parties, such as prices, responsibilities, quality requirements, and dispute resolution processes. While these terms affect your profit, the profit itself is usually not explicitly stated."
                         }
                     ]
                 }
@@ -869,6 +1149,17 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the working with credit category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "introduction to credit",
+                            "question": "What risks are associated with borrowing?",
+                            "answers": {
+                                "A": "Inability to repay loan amount and other costs such as interest.",
+                                "B": "Damage to reputation if loan payments are late or unmet.",
+                                "C": "Both of the above."
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Both risks are associated with borrowing. The inability to repay can lead to financial strain and potential legal issues. Late or missed payments can damage your credit reputation, making it harder to secure future loans or favorable terms. It's crucial to carefully consider these risks before taking on debt."
                         }
                     ]
                 }
@@ -903,6 +1194,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the working with credit category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "working with lenders",
+                            "question": "When applying for a loan, the lender will:",
+                            "answers": {
+                                "A": "Conduct due diligence to make sure the borrower qualifies and can repay the loan.",
+                                "B": "Issues a loan letter either denying credit to the applicant or describing the terms of the credit.",
+                                "C": "Issue a loan agreement detailing the loan terms and conditions.",
+                                "D": "All of the above."
+                            },
+                            "correct_answer": "D",
+                            "explanation": "When applying for a loan, lenders typically perform all of these steps. Due diligence helps assess the borrower's creditworthiness. The loan letter communicates the decision and terms. The loan agreement formalizes the arrangement. This process helps protect both the lender and the borrower."
                         }
                     ]
                 }
@@ -937,6 +1240,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the working with credit category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "credit for customers",
+                            "question": "Which practices are important for managing customer credit?",
+                            "answers": {
+                                "A": "Ensure customers have signed documentation of loan amount and repayment terms.",
+                                "B": "Ensure borrowers meet qualifications for receiving inputs on credit.",
+                                "C": "Track outstanding credit in your credit ledger",
+                                "D": "All of the above."
+                            },
+                            "correct_answer": "D",
+                            "explanation": "All of these practices are important for managing customer credit. Proper documentation, qualifying borrowers, and tracking outstanding credit help minimize risk and ensure a healthy cash flow. These practices protect both the business and the customer in credit transactions."
                         }
                     ]
                 }
@@ -973,6 +1288,17 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the cash flow and budgets category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash flow budget",
+                            "question": "Cash budgets are important, because:",
+                            "answers": {
+                                "A": "They provide valuable information for management decisions.",
+                                "B": "They help business owners identify how actual performance differs from expected performance.",
+                                "C": "All of the above."
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Cash budgets are important for both reasons mentioned. They provide valuable information for management decisions, helping businesses plan for future expenses and investments. They also help owners identify discrepancies between actual and expected performance, allowing for timely adjustments in business strategy."
                         }
                     ]
                 }
@@ -1007,6 +1333,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the cash flow and budgets category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "cash reserves",
+                            "question": "Cash reserves should not be used for:",
+                            "answers": {
+                                "A": "Costs associated with emergencies",
+                                "B": "To cover costs during slow business periods",
+                                "C": "For holiday expenses",
+                                "D": "All of the above"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Cash reserves should not be used for holiday expenses. Reserves are typically set aside for emergencies, to cover costs during slow business periods, or for unexpected business opportunities. Using them for personal expenses like holidays could jeopardize the financial stability of the business."
                         }
                     ]
                 }
@@ -1045,6 +1383,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the business planning category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "elements of a business plan",
+                            "question": "Plans are developed to meet different needs.  Which of the following is not suitable for a plan?",
+                            "answers": {
+                                "A": "Applying for a loan",
+                                "B": "Greeting a customer",
+                                "C": "Expanding your shop",
+                                "D": "Detailing new marketing strategies"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "Greeting a customer is not suitable for a business plan. Business plans are strategic documents outlining goals and strategies. They're used for purposes like loan applications, business expansion, or marketing strategies. Day-to-day operational tasks like customer greetings, while important, are not typically included in a business plan."
                         }
                     ]
                 }
@@ -1079,6 +1429,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the business planning category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "creating mission statements",
+                            "question": "Which of the following is not a question answered by a business plan?",
+                            "answers": {
+                                "A": "Where are you now?",
+                                "B": "How much profit will your suppliers earn?",
+                                "C": "Where are you going?",
+                                "D": "How will you get there?"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "A business plan typically answers questions about your current position, future goals, and strategies to achieve them. The profit of suppliers is not usually addressed in a business plan, as it focuses on your own business operations and financial projections."
                         }
                     ]
                 }
@@ -1113,6 +1475,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the business planning category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "creating vision statements",
+                            "question": "A good vision statement is:",
+                            "answers": {
+                                "A": "Future-oriented",
+                                "B": "Unachievable",
+                                "C": "Several sentences long",
+                                "D": "Mostly for promotional purposes"
+                            },
+                            "correct_answer": "A",
+                            "explanation": "A good vision statement is future-oriented. It should describe where the company aims to be in the long term. While challenging, it should be achievable. It's typically concise, not several sentences long. While it can be used promotionally, its main purpose is to guide business strategy and inspire employees."
                         }
                     ]
                 }
@@ -1147,6 +1521,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the business planning category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "swot analysis",
+                            "question": "The S in SWOT stands for:",
+                            "answers": {
+                                "A": "Strategy",
+                                "B": "Self-interest",
+                                "C": "Strengths",
+                                "D": "Storage"
+                            },
+                            "correct_answer": "C",
+                            "explanation": "In SWOT analysis, S stands for Strengths. This refers to the internal characteristics and resources that give an advantage to the business. The other components are Weaknesses, Opportunities, and Threats, forming a comprehensive framework for strategic planning."
                         }
                     ]
                 }
@@ -1181,6 +1567,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the business planning category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "smart objectives",
+                            "question": "Which is not part of a SMART goal:",
+                            "answers": {
+                                "A": "Specific",
+                                "B": "Marketable",
+                                "C": "Attainable",
+                                "D": "Relevant",
+                                "E": "Time-bound"
+                            },
+                            "correct_answer": "B",
+                            "explanation": "In SMART goal setting, 'Marketable' is not part of the acronym. SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound. These criteria help ensure that goals are clear and reachable within a certain timeframe."
                         }
                     ]
                 }
@@ -1217,6 +1616,19 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the marketing strategies category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "market risks",
+                            "question": "Which of the following is a risk management practice?",
+                            "answers": {
+                                "A": "Reconcile recorded cash and cash on hand.",
+                                "B": "Lock facilities.",
+                                "C": "Count and reconcile recorded inventory with physical inventory.",
+                                "D": "Train someone to conduct critical activities for the busines.",
+                                "E": "All of the above."
+                            },
+                            "correct_answer": "E",
+                            "explanation": "All of these are risk management practices. Reconciling cash, securing facilities, managing inventory, and cross-training staff all help to minimize various business risks. Implementing a combination of these practices creates a robust risk management strategy."
                         }
                     ]
                 }
@@ -1251,6 +1663,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the marketing strategies category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "marketing strategy part 1",
+                            "question": "What are some ways to understand customer needs/wants?",
+                            "answers": {
+                                "A": "Survey existing and potential customers",
+                                "B": "Talk with customers and ask them about their farm operations, challenges and needs.",
+                                "C": "Analyze what competitors are selling and how they engage with customers.",
+                                "D": "All of the above."
+                            },
+                            "correct_answer": "D",
+                            "explanation": "All of these methods are valuable for understanding customer needs and wants. Surveys provide quantitative data, conversations offer qualitative insights, and competitor analysis gives market context. Using a combination of these approaches provides a comprehensive understanding of customer needs."
                         }
                     ]
                 }
@@ -1285,6 +1709,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the marketing strategies category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "marketing strategy part 2",
+                            "question": "What are the 4 Ps of marketing?",
+                            "answers": {
+                                "A": "Product, place, promotion and price.",
+                                "B": "Product, policy, price and practice.",
+                                "C": "Product, price, practice, and potential.",
+                                "D": "None of the above."
+                            },
+                            "correct_answer": "A",
+                            "explanation": "The 4 Ps of marketing are Product, Place, Promotion, and Price. These elements form the core of the marketing mix, a fundamental concept in marketing strategy. Each 'P' represents a key area that businesses need to address in their marketing efforts."
                         }
                     ]
                 }
@@ -1319,6 +1755,18 @@
                         {
                             "mobile_summary_number": "7",
                             "mobile_summary_final": "Congratulations, you have completed #PERCENT% of the marketing strategies category \ud83d\udc4d"
+                        },
+                        {
+                            "h3_name": "basic pricing strategies",
+                            "question": "Bundling is:",
+                            "answers": {
+                                "A": "Selling multiple units of the same product at a reduced price.",
+                                "B": "Selling products on credit.",
+                                "C": "Combining several products or services together for a lower price that the total of each product.",
+                                "D": "None of the above."
+                            },
+                            "correct_answer": "C",
+                            "explanation": "Bundling is combining several products or services together for a lower price than the total of each product individually. This strategy can increase sales volume, clear inventory, or introduce customers to new products. It's different from volume discounts or credit sales."
                         }
                     ]
                 }
