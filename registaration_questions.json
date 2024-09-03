@@ -1,0 +1,84 @@
+[
+    {
+        "swahili": "Mara tu utakapomaliza usajili wako, utakuwa na fursa ya kupata msomo yotr ya Mjasiriamali wa Kilimo ya BLF .",
+        "english": "Once you complete the registration, you will have access to all of the BLF training materials. "
+    },
+    {
+        "swahili": "Karibu ,Kwenye teknolojia ya chatbot ya mafunzo ya BLF. Ili kukupatia uzoefu bora, tunatamani  kuelewa mahitaji yako. Tafadhali jaza dodoso fupi la usajili.",
+        "english": "Welcome the BLF's training chatbot. To provide you with the best experience, we would like to understand your needs. Please complete a brief registration survey."
+    },
+    {
+        "swahili": "Tafadhali andika jina lako lote kwa ukamilifu",
+        "english": "Please type in your full name."
+    },
+    {
+        "user_input": "name"
+    },
+    {
+        "swahili": "Asante, #name Je, una umri gani ?",
+        "english": "Thank you, #name, How old are you?",
+        "buttons": [
+            "0 - 19",
+            "20 - 34",
+            "35 - 59",
+            "60 - 74",
+            "75+"
+        ]
+    },
+    {
+        "swahili": "Nzuri! Shukrani kwa majibu yako. Ni jinsi  gani unayo?",
+        "english": "Great! Thank you for your response. What is your gender?",
+        "buttons": {
+            "swahili": [
+                "Mwanamke",
+                "Mwanaume"
+            ],
+            "english": [
+                "Woman",
+                "Man"
+            ]
+        }
+    },
+    {
+        "swahili": "Uko katika mkoa gani ?",
+        "english": "In which region are you located?",
+        "buttons": {
+            "swahili": [
+                "Geita",
+                "Mara",
+                "Mwanza",
+                "Shinyanga",
+                "Simiyu",
+                "Nyingine"
+            ],
+            "english": [
+                "Geita",
+                "Mara",
+                "Mwanza",
+                "Shinyanga",
+                "Simiyu",
+                "Other"
+            ]
+        }
+    },
+    {
+        "swahili": "Unafanya kazi gani ?",
+        "english": "What's your role?",
+        "buttons": {
+            "swahili": [
+                "Kocha",
+                "AE",
+                "Mwanafamilia wa AE",
+                "Mfanyakazi wa AE",
+                "Nyingine"
+            ],
+            "english": [
+                "Coach",
+                "AE",
+                "Family member of an AE",
+                "Employee of an AE",
+                "Other"
+            ]
+        }
+    }
+]
